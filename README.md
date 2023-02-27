@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [The Honeypot: A Cybersecurity Exercise in Brute-Force Attacks and Defense](https://github.com/neelspatel999/The-HoneyPot)
-- [Vulnerability Management Lab](https://github.com/neelspatel999/LABURL)
+- [Vulnerability Management Lab](https://github.com/neelspatel999/Vulnerability-Management-Lab)
 
 <h2>:page_facing_up: Certifications:</h2>
 
