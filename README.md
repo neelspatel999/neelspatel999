@@ -9,7 +9,7 @@
 
 - [TryHackMe's Advent of Cyber 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VO0IB2GFFT.png)
 - [TryHackMe's Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YN6KUFHYH1.png)
-  
+- [CompTIA Security+ Certification] (https://www.credly.com/badges/ac5b8154-5a8c-4a04-bada-3f70d6333780/linked_in_profile)  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NeelPatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
